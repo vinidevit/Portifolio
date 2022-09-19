@@ -1,6 +1,6 @@
 # Portifolio
 
-![preview](/imagens/Captura%20da%20Web_27-8-2022_184010_127.0.0.1.jpeg)
+![preview](/imagens/Portifolio.jpeg)
 
 Este projeto apresenta algumas informações sobre minhas experiencias e conhecimentos
 
